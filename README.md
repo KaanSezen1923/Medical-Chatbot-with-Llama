@@ -111,4 +111,3 @@ MIT License – see the [LICENSE](LICENSE) file for details.
 
 ---
 
-Let me know if you'd like a logo, deployment guide (e.g., Docker or Streamlit Cloud), or demo video link added to this `README.md`.
